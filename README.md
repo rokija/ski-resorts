@@ -1,3 +1,11 @@
+# Ski / Snowboard resorts in Europe
+
+This map displays all resorts, shows the ones that are currently closed, opening soon and open.
+on click you can see the name and homepage.
+It's using Leaflet map.
+
+![Screenshot](screenshot.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
